@@ -128,7 +128,7 @@ p.note { display: none; }
   
         <h2>MP4ファイルの再生</h2>
     <video controls width="640">
-        <source src="https://torokoid.github.io/torokoid/20250226_chiangrai/2025-02-26 yukinoyakusoku by maitiya.mp4" type="video/mp4">
+        <source src="https://torokoid.github.io/20250226_chiangrai/2025-02-26 yukinoyakusoku by maitiya.mp4" type="video/mp4">
         お使いのブラウザは video タグをサポートしていません。
     </video>
 
